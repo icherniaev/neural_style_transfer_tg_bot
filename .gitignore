@@ -1,3 +1,4 @@
 .env
 tel_bot_test_venv/
 __pycache__
+.DS_Store
