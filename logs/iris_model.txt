@@ -1,0 +1,63 @@
+Sat Jan 28 08:52:08 2023	Epoch 1:	[2000/82783]	content: 1007068.798750	style: 5736813.473375	total: 6743882.272125
+Sat Jan 28 08:54:38 2023	Epoch 1:	[4000/82783]	content: 1017008.686938	style: 3161503.694406	total: 4178512.381344
+Sat Jan 28 08:57:09 2023	Epoch 1:	[6000/82783]	content: 1006074.922917	style: 2241459.753271	total: 3247534.676187
+Sat Jan 28 08:59:39 2023	Epoch 1:	[8000/82783]	content: 992048.675844	style: 1767175.343766	total: 2759224.019609
+Saving checkpoint at batch_id = 1999 for eval
+Saving checkpoint at batch_id = 1999 for train
+Sat Jan 28 09:02:10 2023	Epoch 1:	[10000/82783]	content: 976194.356125	style: 1478121.375644	total: 2454315.731769
+Sat Jan 28 09:04:40 2023	Epoch 1:	[12000/82783]	content: 959969.028375	style: 1282532.748781	total: 2242501.777156
+Sat Jan 28 09:07:11 2023	Epoch 1:	[14000/82783]	content: 943866.211357	style: 1141900.226254	total: 2085766.437612
+Sat Jan 28 09:09:41 2023	Epoch 1:	[16000/82783]	content: 930846.193219	style: 1040880.710359	total: 1971726.903578
+Saving checkpoint at batch_id = 3999 for eval
+Saving checkpoint at batch_id = 3999 for train
+Sat Jan 28 09:12:11 2023	Epoch 1:	[18000/82783]	content: 918457.861778	style: 956828.672597	total: 1875286.534375
+Sat Jan 28 09:14:42 2023	Epoch 1:	[20000/82783]	content: 905724.016638	style: 888763.142388	total: 1794487.159025
+Sat Jan 28 09:17:16 2023	Epoch 1:	[22000/82783]	content: 894258.910614	style: 833281.729165	total: 1727540.639778
+Sat Jan 28 09:19:50 2023	Epoch 1:	[24000/82783]	content: 883519.223823	style: 786574.231469	total: 1670093.455292
+Saving checkpoint at batch_id = 5999 for eval
+Saving checkpoint at batch_id = 5999 for train
+Sat Jan 28 09:22:23 2023	Epoch 1:	[26000/82783]	content: 873163.327865	style: 746990.052050	total: 1620153.379916
+Sat Jan 28 09:24:57 2023	Epoch 1:	[28000/82783]	content: 863688.423973	style: 713002.641618	total: 1576691.065592
+Sat Jan 28 09:27:31 2023	Epoch 1:	[30000/82783]	content: 854624.477433	style: 683250.876685	total: 1537875.354119
+Sat Jan 28 09:30:05 2023	Epoch 1:	[32000/82783]	content: 846240.145617	style: 656941.271697	total: 1503181.417314
+Saving checkpoint at batch_id = 7999 for eval
+Saving checkpoint at batch_id = 7999 for train
+Sat Jan 28 09:32:40 2023	Epoch 1:	[34000/82783]	content: 838555.538081	style: 633773.578322	total: 1472329.116403
+Sat Jan 28 09:35:13 2023	Epoch 1:	[36000/82783]	content: 831283.913306	style: 613162.342384	total: 1444446.255689
+Sat Jan 28 09:37:47 2023	Epoch 1:	[38000/82783]	content: 824210.715217	style: 594389.134428	total: 1418599.849645
+Sat Jan 28 09:40:21 2023	Epoch 1:	[40000/82783]	content: 817744.634194	style: 577645.451541	total: 1395390.085734
+Saving checkpoint at batch_id = 9999 for eval
+Saving checkpoint at batch_id = 9999 for train
+Sat Jan 28 09:42:54 2023	Epoch 1:	[42000/82783]	content: 811520.648780	style: 562116.350589	total: 1373636.999369
+Sat Jan 28 09:45:28 2023	Epoch 1:	[44000/82783]	content: 805712.129625	style: 548160.519925	total: 1353872.649550
+Sat Jan 28 09:48:02 2023	Epoch 1:	[46000/82783]	content: 800080.990310	style: 535163.890107	total: 1335244.880417
+Sat Jan 28 09:50:35 2023	Epoch 1:	[48000/82783]	content: 794702.105068	style: 523266.008188	total: 1317968.113255
+Saving checkpoint at batch_id = 11999 for eval
+Saving checkpoint at batch_id = 11999 for train
+Sat Jan 28 09:53:09 2023	Epoch 1:	[50000/82783]	content: 789721.456650	style: 512329.450196	total: 1302050.906846
+Sat Jan 28 09:55:43 2023	Epoch 1:	[52000/82783]	content: 785045.744192	style: 502124.994183	total: 1287170.738375
+Sat Jan 28 09:58:17 2023	Epoch 1:	[54000/82783]	content: 780443.756806	style: 492544.233255	total: 1272987.990060
+Sat Jan 28 10:00:51 2023	Epoch 1:	[56000/82783]	content: 776147.386357	style: 483613.795695	total: 1259761.182052
+Saving checkpoint at batch_id = 13999 for eval
+Saving checkpoint at batch_id = 13999 for train
+Sat Jan 28 10:03:25 2023	Epoch 1:	[58000/82783]	content: 772024.392207	style: 475409.775137	total: 1247434.167344
+Sat Jan 28 10:05:59 2023	Epoch 1:	[60000/82783]	content: 768083.564733	style: 467683.078868	total: 1235766.643601
+Sat Jan 28 10:08:33 2023	Epoch 1:	[62000/82783]	content: 764156.099827	style: 460326.025398	total: 1224482.125225
+Sat Jan 28 10:11:07 2023	Epoch 1:	[64000/82783]	content: 760479.215828	style: 453478.578413	total: 1213957.794241
+Saving checkpoint at batch_id = 15999 for eval
+Saving checkpoint at batch_id = 15999 for train
+Sat Jan 28 10:13:40 2023	Epoch 1:	[66000/82783]	content: 756922.524989	style: 446965.098625	total: 1203887.623614
+Sat Jan 28 10:16:14 2023	Epoch 1:	[68000/82783]	content: 753542.877456	style: 440794.562385	total: 1194337.439841
+Sat Jan 28 10:18:47 2023	Epoch 1:	[70000/82783]	content: 750299.267175	style: 434989.227396	total: 1185288.494571
+Sat Jan 28 10:21:21 2023	Epoch 1:	[72000/82783]	content: 747151.317670	style: 429526.764745	total: 1176678.082415
+Saving checkpoint at batch_id = 17999 for eval
+Saving checkpoint at batch_id = 17999 for train
+Sat Jan 28 10:23:54 2023	Epoch 1:	[74000/82783]	content: 744082.729743	style: 424235.384132	total: 1168318.113875
+Sat Jan 28 10:26:28 2023	Epoch 1:	[76000/82783]	content: 741216.828938	style: 419214.244334	total: 1160431.073271
+Sat Jan 28 10:29:01 2023	Epoch 1:	[78000/82783]	content: 738346.185689	style: 414397.985278	total: 1152744.170967
+Sat Jan 28 10:31:35 2023	Epoch 1:	[80000/82783]	content: 735606.054731	style: 409837.796723	total: 1145443.851455
+Saving checkpoint at batch_id = 19999 for eval
+Saving checkpoint at batch_id = 19999 for train
+Sat Jan 28 10:34:09 2023	Epoch 1:	[82000/82783]	content: 733053.993119	style: 405537.813117	total: 1138591.806236
+
+Done, trained model saved at ./drive/MyDrive/style_transfer/saved_models/epoch_1_Sat_Jan_28_10:35:09_2023_100000.0_50000000000.0.model
