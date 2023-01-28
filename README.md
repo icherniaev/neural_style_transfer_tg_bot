@@ -96,10 +96,11 @@ The bot was tested on MacBook M1 with macOS Ventura 13.1 installed. The stabilit
 
 ### Installation
 
-In order to install the bot first clone this repository to the folder of your choice
+In order to install the bot first clone this repository to the folder of your choice and procede to the repository
 
 ```bash
 $ git clone https://github.com/icherniaev/neural_style_transfer_tg_bot
+$ cd neural_style_transfer_tg_bot
 ```
 
 Then, create a virtual environmnet:
