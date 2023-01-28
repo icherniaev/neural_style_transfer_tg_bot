@@ -3,7 +3,7 @@
 ## About
 This repository contains my project of Telegram bot capable of [Artistic Style Transfer](https://arxiv.org/abs/1508.06576) in four different styles. The Artistic style transfer is used to mix the content of one image with the style of another. Style transfer model is based on the idea described in [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) and implemented in PyTorch in [this](https://github.com/pytorch/examples/tree/main/fast_neural_style) repository. The model provides fast style transfer that works on CPU and requires minimun amount of computational power. It is wrapped in a Telegram bot that can be easily deployed either locally or on a remote CPU-powered server. The bot is written in Python using [aiogram](https://docs.aiogram.dev/en/latest/) libaraty and asynchronous programming. Hence, it can interract with multiple users at the same time. 
 
-----
+---
 
 ## Content
 
