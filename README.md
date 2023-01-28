@@ -123,7 +123,7 @@ Create the file .env in your repository and fill it with your personal telegram 
 
 ```bash
 $ touch .env
-$ echo "<your bot token>" > .env
+$ echo "<your bot token>" .env
 ```
 
 Finally run [app.py](app.py):
