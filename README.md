@@ -106,7 +106,7 @@ $ cd neural_style_transfer_tg_bot
 Then, create a virtual environmnet:
 
 ```bash
-$ python -m venv <name of your virtual environment>
+$ python3 -m venv <name of your virtual environment>
 ```
 
 Activate your virtual environment:
@@ -124,7 +124,7 @@ Create the file .env in your repository and fill it with your personal telegram 
 
 ```bash
 $ touch .env
-$ echo "<your bot token>" .env
+$ echo "BOT_TOKEN=<your bot token>" > .env
 ```
 
 Finally run [app.py](app.py):
